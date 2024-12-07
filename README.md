@@ -20,23 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Colegas no Natal
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Contextualizando roupas parecidas
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+usamos Photoroom
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Remoção de fundo e inserção de um fundo alternativo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+![COLEGAS-Photoroom](https://github.com/user-attachments/assets/2ca0bb27-46b3-4d06-b943-5ff9defaa097)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+para um primeior trabalho não parece dificil mas pretendo ir aumentando a dificuldade aos poucos```
 
 ### Exemplos e Insigths
 
